@@ -35,8 +35,8 @@ loginInfo:{
 3.图片示例:
 
 (1)进入首页自动调用
- ![](https://bbs.pediy.com/upload/attach/201811/741716_3RGDWSYZJZV97E9.png)
+ ![](https://img2018.cnblogs.com/blog/978478/201811/978478-20181107153805097-53526742.png)
 
 
 (2)点击允许后
- ![](https://bbs.pediy.com/upload/attach/201811/741716_BD5WB763NQDZYSY.png)
+ ![](https://img2018.cnblogs.com/blog/978478/201811/978478-20181107153652374-286032442.png)
