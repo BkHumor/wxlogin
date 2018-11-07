@@ -1,0 +1,30 @@
+{
+  "pages":[
+    "pages/example/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#0099ee",
+    "navigationBarTitleText": "测试",
+    "navigationBarTextStyle":"#fff"
+  },
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#0099ee",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [{
+      "pagePath": "pages/example/index",
+      "text": "测试",
+      "iconPath": "images/mine1.png",
+      "selectedIconPath": "images/mine.png"
+    },
+    {
+      "pagePath": "pages/example/index",
+      "text": "测试",
+      "iconPath": "images/mine1.png",
+      "selectedIconPath": "images/mine.png"
+    }
+  ]
+  }
+}
