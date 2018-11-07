@@ -28,8 +28,12 @@ loginInfo:{
       logImage:'../../images/logo.jpg',
     }
 ```
+
 可以参考example
+
+
 3.图片示例:
+
 (1)进入首页自动调用
  ![](https://bbs.pediy.com/upload/attach/201811/741716_3RGDWSYZJZV97E9.png)
 
