@@ -58,7 +58,7 @@ page {
   padding: 30rpx;
   text-align: center;
 }
-.help-btn {
+.btn {
   position: fixed;
   top: 50%;
   left: 50%;
