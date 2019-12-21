@@ -1,4 +1,4 @@
-﻿## 微信小程序授权登录弹框
+## 微信小程序授权登录弹框
 
 微信小程序登录框
 1.安装方法：
@@ -33,7 +33,7 @@ loginInfo:{
 
 
 3.图片示例:
-
+![](https://upload-images.jianshu.io/upload_images/7072486-70ad5a236b2de8c1.png)
 
 ![](https://img2018.cnblogs.com/blog/978478/201811/978478-20181107153652374-286032442.png)
  

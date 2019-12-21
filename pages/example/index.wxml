@@ -2,3 +2,4 @@
 <view class="container">
   <wxc-dialog class="wxc-dialog" title="{{loginInfo.title}}" content="{{loginInfo.content}}" logName="{{loginInfo.logName}}" logImage="{{loginInfo.logImage}}" bindcancel="onCancel" bindconfirm="onConfirm"></wxc-dialog>
 </view>
+<button class="btn" bindtap="userHelp">弹出授权框</button>
