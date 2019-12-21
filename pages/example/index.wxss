@@ -58,3 +58,10 @@ page {
   padding: 30rpx;
   text-align: center;
 }
+.help-btn {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin: auto;
+  transform: translate(-50%);
+}
